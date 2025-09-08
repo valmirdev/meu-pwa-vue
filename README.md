@@ -1,2 +1,2 @@
 # sistema-agendamento
-https://valmirdev.github.io/sistema-agendamento/
+https://valmirdev.github.io/meu-pwa-vue/
